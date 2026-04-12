@@ -7,7 +7,6 @@ print(X[:,0])
 print(X[1,:])
 
 
-
 #Soal 2
 #Pytorch
 import torch
